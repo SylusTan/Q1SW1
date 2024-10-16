@@ -1,0 +1,33 @@
+.container1 {
+	background-color: #add8e6;
+}
+
+.container2{
+	background-color: #FFC0CB;
+	width: 308px;
+	padding: 15px;
+	border: 3px dotted black;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	margin: auto;
+}
+
+body{
+	background-image: url(https://wallpapers.com/images/featured/pink-yellow-and-blue-spor6rcc6tfrm9k6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+
+label{
+	font-style: italic;
+	font-weight; bold;
+
+}
+#submit{
+	background-color: #FFFFFF;
+	color: black;
+	border-radius: 15px;
+	font-size: 10px;
+}
